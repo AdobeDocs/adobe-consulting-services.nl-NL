@@ -2,7 +2,7 @@
 title: Overzicht van Veva Vault-integratie
 description: Overzicht van Veva Vault-integratie
 exl-id: 52cc7290-b7e1-4476-877f-48934e6daf68
-source-git-commit: 4d27e7ecca662b2082a18621becb0b8ec7735824
+source-git-commit: 005c738818ab622a342ddc3a94e94638e344d058
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -101,3 +101,4 @@ De kaartjes van de steun kunnen met de Zorg van de Klant van de Adobe worden ger
 ### Veeva Vault PromoMats-ondersteuning aanvragen
 
 Het probleem dat zich voordoet, is soms een probleem met de werking van het Veeva Vault PromoMats-exemplaar. Als dat het geval is, kan de beheerder van uw Vève Vault PromoMats worden opgedragen een ondersteuningsticket te maken met [Veeva-ondersteuning](http://support.veeva.com/). De status van de instantie van Veva kan worden bekeken door naar [Veeva Trust](http://trust.veeva.com/).
+
