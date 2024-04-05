@@ -2,7 +2,7 @@
 title: Overzicht van Veva Vault-integratie
 description: Overzicht van Veva Vault-integratie
 exl-id: 52cc7290-b7e1-4476-877f-48934e6daf68
-source-git-commit: 005c738818ab622a342ddc3a94e94638e344d058
+source-git-commit: 2e47baa4a255c34b3ca0b8631650dd5d8960fea8
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -33,8 +33,7 @@ Voor deze integratie zijn minimaal de volgende softwareversies vereist:
 Deze integratie is ontworpen om twee hoofdgebruiksituaties te ondersteunen:
 
 1. Goedkeuring van inhoud - Wanneer nieuwe inhoud is gemaakt of bestaande inhoud is bewerkt in AEM, moet de inhoud worden goedgekeurd voor gebruik in VVPM ter ondersteuning van het goedkeuringsproces voor medische, juridische en regelgevende (MLR) biowetenschappen.
-
-2. Inhoudsbeheer - Voorzie de zichtbaarheid van het gebruik van middelen door in PromoMats relaties tot stand te brengen tussen digitale tactieken (bijvoorbeeld e-mail, presentaties, websites) en de elementen daarvan (bijvoorbeeld logo&#39;s, fotografie, afbeeldingen) die in AEM zijn gemaakt voor documenten die afkomstig zijn uit AEM.
+1. Inhoudsbeheer - Voorzie de zichtbaarheid van het gebruik van middelen door in PromoMats relaties tot stand te brengen tussen digitale tactieken (bijvoorbeeld e-mail, presentaties, websites) en de elementen daarvan (bijvoorbeeld logo&#39;s, fotografie, afbeeldingen) die in AEM zijn gemaakt voor documenten die afkomstig zijn uit AEM.
 
 De voordelen zijn onder meer:
 
@@ -67,7 +66,6 @@ Wat doet de schakelaar NIET?
 >[!IMPORTANT]
 >
 >Deze integratie beschouwt momenteel AEM als de bron van waarheid voor inhoudssynchronisatie.
->
 
 ## De integratie ophalen
 
