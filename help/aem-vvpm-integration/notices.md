@@ -36,11 +36,11 @@ Houd rekening met de volgende beperkingen wanneer u deze integratie gebruikt:
 * Het synchroniseren van visuele aantekeningen VVPM van VVPM aan AEM wordt niet gesteund.
 * De integratie importeert geen inhoud van VVPM naar AEM.
 * Metagegevensvalidatie wordt niet ondersteund.
-* Het aantal documenten is beperkt op basis van de Veeva-licentie. Zie [Licentielimieten](#veeva-license-limitations).
-* Het aantal API-aanroepen is beperkt op basis van de Veeva-licentie. Zie voor meer informatie [API-beperkingen](https://developer.veevavault.com/docs/#what-are-rate-limits). Zie [Licentielimieten](#veeva-license-limitations).
+* Het aantal documenten is beperkt op basis van de Veeva-licentie. Zie [ Beperkingen van de Vergunning ](#veeva-license-limitations).
+* Het aantal API-aanroepen is beperkt op basis van de Veeva-licentie. Voor meer informatie zie [ API Beperkingen ](https://developer.veevavault.com/docs/#what-are-rate-limits). Zie [ Beperkingen van de Vergunning ](#veeva-license-limitations).
 
 ## Licentielimieten voor Veeva
 
 U kunt uw instantielimieten controleren door aan de algemene montages te navigeren VVPM.
 
-![Veeva-limieten](assets/veeva-limits.png)
+![ Vènegrenzen ](assets/veeva-limits.png)

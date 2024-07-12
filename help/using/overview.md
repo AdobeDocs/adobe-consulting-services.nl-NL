@@ -13,5 +13,5 @@ ht-degree: 0%
 
 Deze bewaarplaats documenteert oplossingen die door ACS voor gebruik met AEM zijn gecreeerd.
 
-![ACS-logo](assets/acs-commons.png)
+![ het embleem van ACS-Bevelen ](assets/acs-commons.png)
 
