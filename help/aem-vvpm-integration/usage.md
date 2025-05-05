@@ -37,7 +37,7 @@ U krijgt toegang tot het AEM. Er zijn twee opties om de integratie te installere
 
 #### Pakketinstallatie
 
-Als u het pakket wilt installeren, downloadt u het met de koppeling in de instapkaartberichten. [ Gedetailleerde instructies voor het installeren van een AEM pakket kunnen worden gevonden door hier te klikken.](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?#installing-packages)
+Als u het pakket wilt installeren, downloadt u het met de koppeling in de instapkaartberichten. [ Gedetailleerde instructies voor het installeren van een AEM pakket kunnen worden gevonden door hier te klikken.](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=nl-NL&#installing-packages)
 
 #### POM-installatie
 
@@ -47,7 +47,7 @@ Om de schakelaar in uw POM te omvatten, volg deze stappen. Vervang uw gebruikers
 
    >[!IMPORTANT]
    >
-   >Als het gebruiken van wolkenmanager, moet de veilige benadering de stappen volgen die hier voor [ wachtwoord beschermde Gemaakt bewaarplaatsen ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/onboarding/getting-access/create-application-project/setting-up-project.html?lang=en#password-protected-maven-repositories) worden gevonden.
+   >Als het gebruiken van wolkenmanager, moet de veilige benadering de stappen volgen die hier voor [ wachtwoord beschermde Gemaakt bewaarplaatsen ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/onboarding/getting-access/create-application-project/setting-up-project.html?lang=nl-NL#password-protected-maven-repositories) worden gevonden.
    >
 
    ```
@@ -257,12 +257,12 @@ Tijdens het genereren van PDF/afbeeldingen moet een AEM gebruiker worden gemaakt
 
 Bij gebruik van AEM 6.5.5+:
 
-* [ Creërend een gebruiker in AEM ](https://experienceleague.adobe.com/docs/experience-manager-65/forms/administrator-help/setup-organize-users/adding-configuring-users.html?#create-a-user)
-* [ Toevoegend toestemmingen aan een gebruiker in AEM ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?#permissions-in-aem)
+* [ Creërend een gebruiker in AEM ](https://experienceleague.adobe.com/docs/experience-manager-65/forms/administrator-help/setup-organize-users/adding-configuring-users.html?lang=nl-NL&#create-a-user)
+* [ Toevoegend toestemmingen aan een gebruiker in AEM ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=nl-NL&#permissions-in-aem)
 
 Bij gebruik van AEM Cloud Servicen:
 
-* [ het Leiden Gebruikers met AEM Cloud Servicen ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html?#accessing)
+* [ het Leiden Gebruikers met AEM Cloud Servicen ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html?lang=nl-NL&#accessing)
 
 De volgende toestemmingen worden vereist voor de AEM dienstgebruiker op de inhoud die in PDF/Beeld zal worden omgezet en aan Veeva zal worden geduwd:
 
